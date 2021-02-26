@@ -7,7 +7,7 @@ from sklearn.metrics import accuracy_score
 
 
 # read the dataset
-data = pd.read_csv('D:\Documents\Github\greatlearning-pgp-dsba\M0 Examples\data files\iris_data.csv')
+data = pd.read_csv('iris_data.csv')
 print(data.head())
 
 print('\n\nColumn Names\n\n')
